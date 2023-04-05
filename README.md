@@ -12,7 +12,9 @@ Template for [vercel-shorturl](https://github.com/ThewApp/vercel-shorturl)
 
 1. [Create a new repository](https://github.com/ThewApp/vercel-shorturl-starter/generate) from this template.
 1. Edit `redirects.yml`.
+1. Run `npm ci` and `npm run build`
 1. Deploy to Vercel.
+1. You must run `npm run build` everytime you edit `redirects.yml`.
 
 ## Features
 
